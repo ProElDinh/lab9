@@ -1,10 +1,10 @@
 #introduction {
-  background: url('../img/main_background.png') 0% 50%/cover;
+  background: url('../img/main_background.png') 0% 10%/cover;
   background-size: 100%;
-  background-repeat: ;
+  background-repeat: no-repeat;
 }
 .fill-viewport {
-  min-height: 100vh 
+  min-height: 100vh
 }
 .text-white-70 {
   color: rgba(255,255,255,0.7)
